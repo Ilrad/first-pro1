@@ -1,0 +1,61 @@
+#boot{
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    z-index: 1;
+}
+
+
+
+
+
+/*Head bannerpic*/
+#pichead{
+    background: linear-gradient(rgba(0, 0, 0, 0.404), rgba(0, 0, 0, 0.171)), url(coryxkenshin.jpg);
+    padding: 250px 0px 250px 0px;
+    background-size: cover;
+} 
+#pichead h1{
+    text-align: center;
+    font-weight: 600;
+    font-family: monospace;
+    color: blueviolet;
+    font-size: 5rem;
+}
+
+#contactus{
+    text-align: center;
+    margin-bottom: 7rem;
+}
+
+#services h1{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+#services h3{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    padding: 1rem;
+}
+
+
+#picrow{
+    margin-bottom: 5rem;
+}
+
+#final a{
+    margin: 1rem;
+}
+footer p{
+    color: white;
+
+}
+footer div{
+    padding: 1rem;
+}
+#picrow h1{
+    margin-top: 5rem;
+}

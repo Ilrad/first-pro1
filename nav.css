@@ -1,0 +1,29 @@
+*{
+    list-style: none;
+    text-decoration: none;
+}
+#navbar {
+    background-color:purple; font: monospace; padding-left: 15px; padding-right: 15px;
+}
+#navhead {
+    display: flex; align-items: center; justify-content: space-between;
+}
+#logo{
+    padding-bottom: 1px; padding-top: 5px;
+}
+li {
+    display: inline-block; list-style: none;
+}
+li a{
+    color: white; font-weight: bold; margin-right: 25px;
+}
+li a:hover {
+    background-color: rgba(0, 0, 0, 0.384); 
+}
+
+button {
+    background-color: white; margin-left: 10px; border-radius: 10px; padding: 10px; width: 90;
+}
+button a {
+    color: black; font-weight: bold; font-size: 15px;
+}
